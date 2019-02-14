@@ -1,0 +1,15 @@
+# Extensions
+
+
+- Why does the app close immediately? Refactor it to continuously evaluate phrases.
+    - How will you exit the app?
+    - Hint : Check Scanner's hasNextLine() method.
+
+
+- Make the app respond with a cavalier "Oh. That must be, fascinating." only when the topic is 'not interesting'.
+  Example
+
+  $ What's on your mind?
+  > Recently I've been listening to this podcast about different grades of sand.
+  $ Oh. That must be, fascinating.
+  >
